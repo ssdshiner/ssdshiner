@@ -10,7 +10,7 @@
 
 <!-- ░░░ ANIMATED TYPING LINE ░░░ -->
 <a href="https://100rab.online">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=820&height=60&lines=Commerce+Graduate+with+a+zeal+for+Tech;CA+Intermediate+%C2%B7+B.Com+(Hons.)+%C2%B7+MBA+Marketing;Finance+%2B+Compliance+%2B+AI-Assisted+Workflows;Founding+Team+%40+AeroSync+Digital+Technologies;Building+KochasWala+%E2%80%94+a+town%2C+brought+online" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=820&height=60&lines=Commerce+Graduate+with+a+zeal+for+Tech;CA+Intermediate+%C2%B7+B.Com+(Hons.)+%C2%B7+MBA+Marketing;Finance+%2B+Compliance+%2B+AI-Assisted+Workflows;Founding+Team+%40+AeroSync+Digital;Building+KochasWala+%E2%80%94+a+town%2C+brought+online" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -189,9 +189,9 @@ receipts, not vibes.
 
 | Period | Role | Where |
 |:---|:---|:---|
-| `2025 → now` | **Legal & Operations Lead** — bookkeeping, payroll, web ops, compliance, investor documentation | AeroSync Digital Technologies |
+| `2025 → now` | **Legal & Operations Lead** — bookkeeping, payroll, web ops, compliance, investor documentation | AeroSync Digital |
 | `2026 → now` | **Financial Coordination & Documentation** — finance coordination, legal registrations | Skillveri |
-| `2025` | **Advisor, Legal & Finance** — incorporation, GST setup, statutory filings | AeroSync Digital Technologies |
+| `2025` | **Advisor, Legal & Finance** — incorporation, GST setup, statutory filings | AeroSync Digital |
 | `2022 – 2024` | **Teacher** — Financial Literacy, Computer Science, Economics, Mass Media (Classes 6–10) | Rohtas Public School |
 | `2020 – 2022` | **SEO Coordinator & Web Consultant** — site architecture, technical SEO, UI/UX, content ops | Freelance |
 
