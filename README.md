@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ░░░ 3D HEADER BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F1A,35:1B1035,70:3B0764,100:00121F&text=SAURABH%20KUMAR&fontSize=62&fontColor=00F5FF&fontAlignY=32&desc=Legal%20%26%20Operations%20Lead%20%C2%B7%20AeroSync%20Digital%20%C2%B7%20IIT%20Madras%20Research%20Park&descSize=17&descAlignY=52&animation=fadeIn&stroke=9D00FF&strokeWidth=2" alt="Saurabh Kumar" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F1A,35:1B1035,70:3B0764,100:00121F&text=SAURABH%20KUMAR&fontSize=62&fontColor=00F5FF&fontAlignY=32&desc=Legal%20%26amp%3B%20Operations%20Lead%20%C2%B7%20AeroSync%20Digital%20%C2%B7%20IIT%20Madras%20Research%20Park&descSize=17&descAlignY=52&animation=fadeIn&stroke=9D00FF&strokeWidth=2" alt="Saurabh Kumar" />
 
 <!-- ░░░ ANIMATED TYPING LINE ░░░ -->
 <a href="https://100rab.online">
